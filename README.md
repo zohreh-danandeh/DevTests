@@ -16,6 +16,7 @@ Write an API that can perform the following scenarios (order of operation should
 ### Guidelines
 * This is a take home test that should take you approximatley 2hrs (or less)
 * The use of Entity Framework is not permitted (ADO.Net please)
+* The test should be written in C# and .Net Core
 * The response form the API should be in JSON format
 
 ### Submission
