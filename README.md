@@ -20,4 +20,4 @@ Write an API that can perform the following scenarios (order of operation should
 * The response form the API should be in JSON format
 
 ### Submission
-In order to submit your results the create a private fork of this repo and share it with the hiring manager.
+In order to submit your results the create a private fork of this repo and share it with the hiring manager. For the Database work please provide the appropriate scripts to create the DB tables for testing. 
